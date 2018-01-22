@@ -17,7 +17,7 @@
   <li>Arte: personagens e cenário</li>
   <li>Tela inicial com menu</li>
   <li>Sobre o game</li>
-  <li>Inserção do cenário</li>
+  <li>Inserção do cenário com animação</li>
   <li>Botões de controle de pressão na tela</li>
   <li>Controle do player</li>
   <li>Musica de fundo</li>
