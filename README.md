@@ -6,6 +6,19 @@
 <p><b>Compilação: 0.1</b></p>
 
 <br><br>
+<p>Nesta compilação o que foi desenvolvido:</p>
+
+<ol>
+  <li>Arte: personagens e cenário</li>
+  <li>Tela inicial com menu</li>
+  <li>Sobre o game</li>
+  <li>Inserção do cenário</li>
+  <li>Botões de controle de pressão na tela</li>
+  <li>Controle do player</li>
+  <li>Musica de fundo</li>
+</ol>
+
+<br><br>
 <img src="https://github.com/EuFreela/Iron-Flying-Game/blob/master/prints/img-1.jpg" width="230" height="400">
 <img src="https://github.com/EuFreela/Iron-Flying-Game/blob/master/prints/img-2.jpg" width="230" height="400">
 <img src="https://github.com/EuFreela/Iron-Flying-Game/blob/master/prints/img-3.jpg" width="230" height="400">
